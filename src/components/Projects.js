@@ -64,7 +64,7 @@ export const Projects = () => {
                               <div class="col-xl-5 col-lg-6 col-md-7 offset-lg-1">
                                   <h5 class="mb-[4.5rem] text-align: left">datum.io</h5>
                                   <span>
-                                  Developed as a Capstone project, this application incorporates gamification to enhance data collection in targeted research studies. Its flexibility makes it suitable for use in various fields, such as mental health research and product engagement analysis. <br></br><br></br>With a strong focus on user experience, it prioritizes ease of use and interaction, creating a seamless and engaging platform for users..
+                                  Developed as a Capstone project, this application incorporates gamification to enhance data collection in targeted research studies. Its flexibility makes it suitable for use in various fields, such as mental health research and product engagement analysis. <br></br><br></br>With a strong focus on user experience, it prioritizes ease of use and interaction, creating a seamless and engaging platform for users.
                                   </span>
                                   <div class="row-cols-5 row">
                                     <div class="col col-sm text-center sx:mb-[30px]">
